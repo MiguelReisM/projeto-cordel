@@ -1,4 +1,6 @@
-# 📚 Projeto Cordel
+# 📚 Projeto Cordel  
+
+![HTML5](https://img.shields.io/badge/HTML5-Page-orange?logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-Style-blue?logo=css3&logoColor=white)  ![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-black?logo=github&logoColor=white)  
 
 Este é um site desenvolvido durante aulas de **HTML** e **CSS**, inspirado na **literatura de cordel**, uma tradição cultural brasileira marcada pela poesia popular e estilo narrativo único.  
 
